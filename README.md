@@ -19,7 +19,7 @@ Dosen Pengampu   : Donny Maulana, S.Kom., M.M.S.I.
 ## TUTORIAL PDF
 Berikut merupakan tutorial untuk menjalankan program aplikasi pada Android Studio
 
-[TUTORIAL.UASPEMROGRAMANMOBILE.docx](https://github.com/IDOYGAMING/UAS1-mobile1/files/13958128/TUTORIAL.UASPEMROGRAMANMOBILE.docx)
+[TUTORIAL.UASPEMROGRAMANMOBILE.pdf](https://github.com/IDOYGAMING/UAS1-mobile1/files/13958146/TUTORIAL.UASPEMROGRAMANMOBILE.pdf)
 
 
 
