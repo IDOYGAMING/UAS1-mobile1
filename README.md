@@ -1680,17 +1680,17 @@ public class VideoPlayerActivity extends AppCompatActivity {
 </menu>
 ```
 
-> **Hasil Tampilan Menu Program Tugas Akhir :**
-
-![SS Tampilan Menu Program]()
-
 
 
 ##  Hasil Run
 
 
 
-https://github.com/IDOYGAMING/UAS1-mobile1/assets/130022256/c8ed513c-5fac-4036-ae91-25616e9e2f58
+
+
+https://github.com/IDOYGAMING/UAS1-mobile1/assets/130022256/c5e7a8df-4990-4839-a8f9-318dbbdf0070
+
+
 
 
 
